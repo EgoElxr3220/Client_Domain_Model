@@ -12,5 +12,7 @@ internal class Program
         client2.Deactivate();
         string client2Summary = client2.GetSummary();
         Console.WriteLine(client2Summary);
+
+        
     }
 }
